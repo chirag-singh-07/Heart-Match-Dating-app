@@ -1,0 +1,7 @@
+MONGODB_URI="mongodb+srv://vipg31879:i7PTznOYyrbEDmNK@auth-app.l3qya.mongodb.net/?retryWrites=true&w=majority&appName=auth-app"
+JWT_SECRET="iwgdw89890ri3hr"
+PORT=8000
+NODE_ENV=development
+CLOUDINARY_CLOUD_NAME="duzpoj27d"
+CLOUDINARY_API_KEY="268291534834921"
+CLOUDINARY_API_SECRET="LjYiD7nrfNqNejLathFym0hVKeo"
