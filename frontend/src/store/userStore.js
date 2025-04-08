@@ -6,7 +6,7 @@ import { create } from "zustand";
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:8000/api";
 axios.defaults.withCredentials = true;
 
-const socket = io("http://localhost:8000", {
+const socket = io(import.meta.env.VITE_API_BASE, {
   withCredentials: true,
 });
 
